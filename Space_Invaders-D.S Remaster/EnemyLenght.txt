@@ -1,0 +1,1 @@
+Please run game from the python shell rathet han the .exe file. Mainly because the .exe refuses to show altered texts.
